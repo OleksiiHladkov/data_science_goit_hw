@@ -1,1 +1,1 @@
-# data_science_goit_hw
+# Курс Data Science
